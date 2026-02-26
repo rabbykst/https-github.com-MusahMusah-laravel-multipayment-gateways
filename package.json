@@ -24,7 +24,7 @@
     "repository": "https://github.com/MusahMusah/laravel-multipayment-gateways/docs",
     "license": "ISC",
     "dependencies": {
-      "vitepress": "^1.0.0-alpha.27",
+      "vitepress": "^1.6.4",
       "vue": "^3.2.41"
     }
   }
